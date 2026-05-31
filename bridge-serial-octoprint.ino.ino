@@ -50,7 +50,7 @@ void loop() {
   // Firmware info
   // -------------------------
   if (cmd == "M115") {
-    Serial.println("arduklip v1.0dev");
+    Serial.println("FIRMWARE_NAME:arduklip 1.0");
     return;
   }
 
