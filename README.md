@@ -17,4 +17,4 @@ then go to the adresses listed and you will see
 
 
 
-then hook up to avrdide stepper motors. Done!
+then hook up to avrdude stepper motors. Done!
