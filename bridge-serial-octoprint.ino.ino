@@ -270,8 +270,8 @@ void setup() {
   Serial.begin(115200);
 
   Serial.println("start");
-  Serial.println("FIRMWARE_NAME:SimuPrint 2.0");
-  Serial.println("MACHINE_TYPE:SimulatedPrinter EXTRUDER_COUNT:1");
+  Serial.println("FIRMWARE_NAME:arduklip v2.0dev");
+  Serial.println("MACHINE_TYPE:o1vo EXTRUDER_COUNT:1");
   Serial.println("ok");
 
   pinMode(FAN_PIN, OUTPUT);
